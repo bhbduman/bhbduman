@@ -1,6 +1,6 @@
 <div>
         <div align=center>
-                <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&color=%2300F75C&size=30&center=true&vCenter=true&lines=Baran+Hasan+BOZDUMAN" alt="Headline" />
+                <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&color=%2300F70A&size=30&duration=3000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to;Baran+Hasan+BOZDUMAN's+GitHub+Page" alt="Headline" />
 
  </div>  
 
