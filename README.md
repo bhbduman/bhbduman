@@ -2,9 +2,10 @@
         <div align=center>
                 <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&color=%2300F75C&size=30&center=true&vCenter=true&lines=Baran+Hasan+BOZDUMAN" alt="Headline" />
 
- </div>               
-<div>
-                <p2>Connect with Me</p2><br>
+ </div>  
+
+<div align=center>
+                <p1>Connect with Me</p1><br>
 
 
 <a href="https://www.linkedin.com/in/baran-hasan-bozduman-34b14b165/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
